@@ -1,0 +1,4 @@
+#Wed Nov 29 16:08:58 CST 2017
+base.0=D\:\\workspaces\\androidStudio\\shareDemo\\LoadingBar-master\\LoadingBar-master\\example\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+renamed.0=classes.dex
+file.0=D\:\\workspaces\\androidStudio\\shareDemo\\LoadingBar-master\\LoadingBar-master\\example\\build\\intermediates\\transforms\\dexMerger\\debug\\9\\classes.dex

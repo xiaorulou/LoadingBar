@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_loading_material">#eeeeee</color>
+    <string name="loading_default_message">正在提交</string>
+    <style name="Widget.AppCompat.Loading" parent="Widget.AppCompat.ProgressBar"/>
+</resources>

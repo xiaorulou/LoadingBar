@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:loadingbar] D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\loadingbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\05bf6ce7657a598e637a88c0ad675232\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\36fb41f32a023085f88a38613676afc5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\65fbb205876565788a4ae8e48061209c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\35194d4e0e2335e6e43e08661d0b7fb6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\3dd340acf180848cc8e6502d7f3af799\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f4e6d89e61730e58134df3a8d84dc166\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\05bf6ce7657a598e637a88c0ad675232\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\05bf6ce7657a598e637a88c0ad675232\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\36fb41f32a023085f88a38613676afc5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\36fb41f32a023085f88a38613676afc5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\65fbb205876565788a4ae8e48061209c\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\65fbb205876565788a4ae8e48061209c\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\35194d4e0e2335e6e43e08661d0b7fb6\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\35194d4e0e2335e6e43e08661d0b7fb6\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f4e6d89e61730e58134df3a8d84dc166\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f4e6d89e61730e58134df3a8d84dc166\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:10:9-40
+activity#com.dyhdyh.loadingbar.example.MainActivity
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:15:27-74
+activity#com.dyhdyh.loadingbar.example.ListLoadingActivity
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:18:9-19:50
+	android:name
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:19:13-48
+activity#com.dyhdyh.loadingbar.example.LoadingBarActivity
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:20:9-22:41
+	android:label
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:22:13-39
+	android:name
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:21:13-47
+activity#com.dyhdyh.loadingbar.example.LoadingDialogActivity
+ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:23:9-25:44
+	android:label
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:25:13-42
+	android:name
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml:24:13-50
+uses-sdk
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+MERGED from [:loadingbar] D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\loadingbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:loadingbar] D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\loadingbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\05bf6ce7657a598e637a88c0ad675232\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\05bf6ce7657a598e637a88c0ad675232\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\36fb41f32a023085f88a38613676afc5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\36fb41f32a023085f88a38613676afc5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\65fbb205876565788a4ae8e48061209c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\65fbb205876565788a4ae8e48061209c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\35194d4e0e2335e6e43e08661d0b7fb6\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\35194d4e0e2335e6e43e08661d0b7fb6\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\3dd340acf180848cc8e6502d7f3af799\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\3dd340acf180848cc8e6502d7f3af799\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f4e6d89e61730e58134df3a8d84dc166\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f4e6d89e61730e58134df3a8d84dc166\AndroidManifest.xml:20:5-43
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rd0353\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\36fb41f32a023085f88a38613676afc5\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		ADDED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidStudio\shareDemo\LoadingBar-master\LoadingBar-master\example\src\main\AndroidManifest.xml
